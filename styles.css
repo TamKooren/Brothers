@@ -1,0 +1,37 @@
+body {
+    background-color: royalblue;
+    }
+    h1 {
+        text-align: center;
+        color:skyblue;
+        border: 5px double #1086bd
+        
+    }
+    h2 {
+        color:tomato;
+        border:5px double orangered;
+        font-style: italic;
+        }
+
+    .center {
+            display: block;
+            margin-left: auto;
+            margin-right: auto;
+            width: 50%;
+        }
+    footer {
+        color: cadetblue;
+        text-align: center;
+    }
+   a {
+    color: cadetblue;
+      
+  
+
+
+  }
+
+          
+
+        
+   
